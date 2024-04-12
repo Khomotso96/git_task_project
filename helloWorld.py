@@ -1,2 +1,7 @@
+#Ask user to input message
 user_input = input("Enter your message: ")
-print("You entered:", user_input)
+
+#Print out user's input
+print("You entered:", user_input, "Git is awesome")
+
+
